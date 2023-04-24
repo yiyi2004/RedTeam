@@ -1,2 +1,4 @@
 # Red Team
-搜集并构建红队基础设施
+
+# C2
+- [Ares](https://github.com/sweetsoftware/Ares?spm=a2c6h.12873639.article-detail.4.13a45eb4rvxd7W)
